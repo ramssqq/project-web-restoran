@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background: url('restoranmewah.jpg') no-repeat center center/cover;
+    height: 100vh;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 4rem;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.section-title {
+    margin-bottom: 40px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+#about img {
+    max-height: 400px;
+    object-fit: cover;
+}
